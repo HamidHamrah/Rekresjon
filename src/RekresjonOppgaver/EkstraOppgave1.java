@@ -1,4 +1,5 @@
 package RekresjonOppgaver;
+//  Det er noe galt med programed, så ikke helt opptimalt. Prøv å fikse det.
 
 public class EkstraOppgave1 {
     public static void main(String[] args) {
